@@ -1,0 +1,6 @@
+{
+  "name": "BloodCare — Sistem Informasi Donor Darah & Layanan Medis",
+  "description": "Platform ekosistem donor darah darurat, telemedisin PMI, manajemen stok darah faskes, skrining mandiri, dan katalog apresiasi pendonor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

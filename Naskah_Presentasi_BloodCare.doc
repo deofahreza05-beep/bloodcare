@@ -1,0 +1,263 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_BloodCare_01"
+
+------=_NextPart_BloodCare_01
+Content-Type: text/html; charset="utf-8"
+Content-Location: file:///C:/Naskah_Presentasi_BloodCare.htm
+
+<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" 
+      xmlns:w="urn:schemas-microsoft-com:office:word" 
+      xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="utf-8">
+<!--[if gte mso 9]>
+<xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>100</w:Zoom>
+  <w:DoNotOptimizeForBrowser/>
+ </w:WordDocument>
+</xml>
+<![endif]-->
+<title>Naskah Presentasi Resmi - BloodCare</title>
+<style>
+  @page {
+    size: 21.0cm 29.7cm; /* A4 */
+    margin: 2.5cm 2.5cm 2.5cm 2.5cm;
+  }
+  body {
+    font-family: 'Calibri', 'Arial', sans-serif;
+    font-size: 11pt;
+    line-height: 1.5;
+    color: #1f2937;
+  }
+  h1 {
+    color: #dc2626;
+    font-size: 20pt;
+    font-weight: bold;
+    border-bottom: 2pt solid #dc2626;
+    padding-bottom: 6px;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+  .subtitle {
+    font-size: 13pt;
+    color: #4b5563;
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+  h2 {
+    color: #991b1b;
+    font-size: 14pt;
+    font-weight: bold;
+    border-left: 4pt solid #dc2626;
+    padding-left: 8px;
+    margin-top: 24px;
+    margin-bottom: 12px;
+    background-color: #fef2f2;
+    padding-top: 4px;
+    padding-bottom: 4px;
+  }
+  h3 {
+    color: #1e3a8a;
+    font-size: 12pt;
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 6px;
+  }
+  .meta-table {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+  }
+  .meta-table td {
+    padding: 4px 8px;
+    font-size: 10.5pt;
+  }
+  .meta-label {
+    width: 22%;
+    font-weight: bold;
+    color: #374151;
+  }
+  .script-box {
+    background-color: #f8fafc;
+    border: 1pt solid #cbd5e1;
+    border-left: 4pt solid #dc2626;
+    padding: 12px 16px;
+    margin: 8px 0 16px 0;
+    font-style: italic;
+    color: #0f172a;
+  }
+  .action-box {
+    background-color: #eff6ff;
+    border: 1pt solid #bfdbfe;
+    border-left: 4pt solid #2563eb;
+    padding: 8px 14px;
+    margin: 6px 0;
+    font-weight: 500;
+    color: #1e40af;
+  }
+  table.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 16px 0;
+  }
+  table.data-table th, table.data-table td {
+    border: 1pt solid #94a3b8;
+    padding: 8px 10px;
+    text-align: left;
+    font-size: 10pt;
+  }
+  table.data-table th {
+    background-color: #f1f5f9;
+    font-weight: bold;
+    color: #1e293b;
+  }
+  .highlight {
+    background-color: #fee2e2;
+    color: #991b1b;
+    font-weight: bold;
+    padding: 1px 4px;
+  }
+</style>
+</head>
+<body>
+
+  <h1>PANDUAN & NASKAH PRESENTASI RESMI (DEMO SCRIPT)</h1>
+  <div class="subtitle">Sistem Informasi Donor Darah & Layanan Medis Terpadu (BloodCare)</div>
+
+  <table class="meta-table">
+    <tr>
+      <td class="meta-label">Nama Aplikasi</td>
+      <td>: <strong>BloodCare — Ekosistem Darah & Pelayanan Medis</strong></td>
+    </tr>
+    <tr>
+      <td class="meta-label">Teknologi Backend</td>
+      <td>: <strong>Laravel 11 MVC + MySQL (Laragon / HeidiSQL)</strong></td>
+    </tr>
+    <tr>
+      <td class="meta-label">Teknologi Frontend</td>
+      <td>: <strong>React, Tailwind CSS, Lucide Icons</strong></td>
+    </tr>
+    <tr>
+      <td class="meta-label">Target Alokasi Waktu</td>
+      <td>: <strong>7 s/d 10 Menit Presentasi + Tanya Jawab</strong></td>
+    </tr>
+  </table>
+
+  <hr style="border: 0; border-top: 1pt solid #e2e8f0; margin: 15px 0;">
+
+  <h2>BAGIAN 1: PEMBUKAAN PRESENTASI (ESTIMASI: 1 MENIT)</h2>
+  
+  <div class="action-box">
+    <strong>Tindakan Presenter:</strong> Berdiri tegak di samping layar, lakukan kontak mata ramah dengan dewan penguji, dan buka halaman Beranda utama BloodCare.
+  </div>
+
+  <div class="script-box">
+    "Selamat pagi/siang Bapak/Ibu dewan penguji yang saya hormati serta rekan-rekan sekalian. Perkenalkan nama saya [Sebutkan Nama Anda].<br><br>
+    Hari ini saya merasa bangga dapat mempresentasikan hasil rancang bangun project sistem kami, yaitu <strong>BloodCare: Sistem Informasi Donor Darah & Layanan Medis Terpadu</strong>.<br><br>
+    Latar belakang utama project ini lahir dari tiga permasalahan genting yang kerap terjadi di lapangan:
+    <ol style="margin-top: 4px; margin-bottom: 4px;">
+      <li><strong>Keterlambatan Penanganan Darurat:</strong> Pasien yang membutuhkan darah segera akibat operasi caesar darurat, kecelakaan lalu lintas, maupun demam berdarah (DBD) sering terhambat karena sulit mencari pendonor yang cocok secara cepat.</li>
+      <li><strong>Minimnya Transparansi Stok:</strong> Keluarga pasien sering kesulitan mengetahui ketersediaan kantong darah riil antar rumah sakit di kota mereka.</li>
+      <li><strong>Proses Manual yang Menghambat:</strong> Di posko PMI, calon pendonor masih harus mengisi formulir skrining kertas secara manual yang memicu antrean panjang.</li>
+    </ol>
+    BloodCare hadir menjawab seluruh persoalan tersebut dengan menyediakan ekosistem terdigitalisasi penuh yang menghubungkan pasien, pendonor sukarela, faskes rumah sakit, dan PMI secara real-time."
+  </div>
+
+  <h2>BAGIAN 2: DEMONSTRASI FITUR-FITUR UTAMA (ESTIMASI: 5 - 7 MENIT)</h2>
+
+  <h3>1. Pusat Filter Cepat Kebutuhan Darah Darurat</h3>
+  <div class="action-box">
+    <strong>Tindakan di Layar:</strong> Klik tombol filter golongan darah (A, B, AB, atau O), toggle Rhesus (+ Pos / - Neg), dan pilih komponen darah (Packed Red Cells / PRC, Trombosit / TC, atau Whole Blood / WB).
+  </div>
+  <div class="script-box">
+    "Bapak/Ibu dewan penguji dapat melihat pada halaman utama, tersedia <strong>Pusat Filter Kebutuhan Darah</strong>. Ketika terjadi kondisi gawat darurat, keluarga pasien atau faskes dapat langsung memfilter pasien kritis berdasarkan golongan darah dan komponen spesifik yang dibutuhkan. Sistem secara cerdas menyaring data rumah sakit di wilayah Pekanbaru dan menampilkan sisa kantong yang dibutuhkan."
+  </div>
+
+  <h3>2. Penyelamatan Cepat: Fitur 'Bantu Sekarang' & Integrasi WhatsApp</h3>
+  <div class="action-box">
+    <strong>Tindakan di Layar:</strong> Pada kartu pasien darurat (contoh: Ny. Siti Rahma — Pasca Operasi Caesar), klik tombol merah <strong>'Bantu Sekarang'</strong>. Pilih 1 kantong, centang checklist syarat kesehatan, lalu klik <strong>'Konfirmasi Ikrar Donor'</strong>. Tunjukkan progress bar bertambah secara live dan notifikasi poin muncul. Lalu klik <strong>'Bagikan (WA)'</strong>.
+  </div>
+  <div class="script-box">
+    "Ini adalah inovasi penyelamatan inti dari BloodCare. Ketika pendonor melihat ada pasien kritis yang membutuhkan darahnya, mereka cukup menekan tombol <strong>'Bantu Sekarang'</strong>. Pendonor memilih jumlah kantong dan waktu kedatangan ke rumah sakit.<br><br>
+    Seketika itu juga, status kebutuhan pasien langsung ter-update secara otomatis dan pendonor menerima reward poin amal. Selain itu, terdapat tombol <strong>'Bagikan (WA)'</strong> yang langsung mengonversi informasi pasien menjadi format pesan siaga lengkap untuk disebarkan ke grup keluarga atau komunitas pendonor."
+  </div>
+
+  <h3>3. Paspor Relawan Digital & Fast-Pass Skrining Mandiri (QR Code)</h3>
+  <div class="action-box">
+    <strong>Tindakan di Layar:</strong> Sorot kartu merah <strong>'Paspor Relawan Donor PMI'</strong> di sidebar kanan (dr. Adi Putra, 8 kali donor, 4.000 ml tersalurkan, hitung mundur 12 hari). Kemudian klik kartu <strong>'Fast-Pass Skrining Mandiri'</strong> hingga pop-up QR Code digital terbuka.
+  </div>
+  <div class="script-box">
+    "Fitur unggulan ketiga adalah <strong>Paspor Relawan Digital</strong> dan <strong>Fast-Pass QR Code</strong>. Sebelum datang ke posko PMI, pendonor dapat melakukan evaluasi mandiri kesehatan online dalam 2 menit mencakup tensi, Hb, berat badan, jam tidur, dan obat.<br><br>
+    Bila dinyatakan 'Fit', sistem menerbitkan tiket Fast-Pass QR Code resmi. Saat tiba di posko PMI, pendonor tidak perlu lagi antre mengisi formulir kertas fisik; petugas cukup melakukan scan QR Code ini. Ini memangkas waktu antrean hingga 70% dan mewujudkan layanan paperless."
+  </div>
+
+  <h3>4. Gamifikasi: Poin Amal & Katalog Apresiasi Pendonor</h3>
+  <div class="action-box">
+    <strong>Tindakan di Layar:</strong> Buka <strong>Katalog Apresiasi Pendonor</strong> di sidebar kanan (saldo 1,250 Pts). Klik tombol tukar pada salah satu reward (misal: 'Paket Sangobion & Vitamin Fe' seharga 450 Pts). Klik 'Konfirmasi Tukar' dan tunjukkan kode voucher yang muncul.
+  </div>
+  <div class="script-box">
+    "Untuk memotivasi generasi muda agar rutin mendonorkan darah setiap 60 hari, BloodCare menerapkan sistem gamifikasi poin amal. Poin yang dikumpulkan dapat ditukarkan dengan suplemen zat besi pasca-donor, voucher apotek Kimia Farma, maupun diskon pemeriksaan hematologi lengkap di laboratorium Prodia."
+  </div>
+
+  <h3>5. Peta Radar Stok Darah & Posko PMI Terkini</h3>
+  <div class="action-box">
+    <strong>Tindakan di Layar:</strong> Scroll ke bagian Peta Radar geografis. Klik pin interaktif: RSUD Arifin Achmad, UDD Diponegoro, dan Bus Donor Mall SKA.
+  </div>
+  <div class="script-box">
+    "Melalui visualisasi radar real-time radius 15 km, masyarakat dapat melihat sebaran rumah sakit yang memiliki stok darah aman serta mengetahui jadwal dan lokasi <strong>Bus Donor Keliling</strong> yang sedang beroperasi di pusat perbelanjaan."
+  </div>
+
+  <h3>6. Telemedisin Dokter Spesialis & Integrasi SatuSehat</h3>
+  <div class="action-box">
+    <strong>Tindakan di Layar:</strong> Buka tab <strong>'Telemedisin PMI'</strong>, pilih salah satu dokter, dan tunjukkan chat interaktif. Buka modal profil untuk menunjukkan rekaman uji lab SatuSehat (skrining HIV, Hepatitis B, Hepatitis C, Sifilis semuanya Non-Reaktif).
+  </div>
+  <div class="script-box">
+    "Jika calon pendonor merasa ragu dengan kondisi tubuhnya, mereka dapat berkonsultasi via Telemedisin dengan dokter spesialis hematologi PMI. Selain itu, riwayat hasil uji saring IMLTD tersimpan aman dan terintegrasi dengan standar SatuSehat Kementerian Kesehatan Republik Indonesia."
+  </div>
+
+  <h3>7. Dashboard Admin (CRUD & Manajemen Stok)</h3>
+  <div class="action-box">
+    <strong>Tindakan di Layar:</strong> Buka tab <strong>'Admin Panel'</strong>. Tunjukkan tabel permintaan darah, ubah status pasien dari 'Aktif' menjadi 'Terpenuhi', dan buka sub-tab 'Stok Darah Faskes' untuk mengubah stok fisik dengan tombol +/-.
+  </div>
+  <div class="script-box">
+    "Untuk sisi operasional, pengurus PMI dan admin rumah sakit dibekali Dashboard Admin terotentikasi. Petugas dapat mengelola status permintaan darah, memperbarui stok fisik kantong darah per golongan darah, serta memvalidasi data relawan secara terpusat."
+  </div>
+
+  <h2>BAGIAN 3: KESIMPULAN & PENUTUP (ESTIMASI: 1 MENIT)</h2>
+
+  <div class="script-box">
+    "Sebagai kesimpulan, BloodCare bukan sekadar media penyajian informasi statis, melainkan ekosistem terpadu yang memadukan kecepatan respon tanggap darurat, efisiensi skrining mandiri tanpa kertas, dan sistem apresiasi berkelanjutan bagi pendonor darah.<br><br>
+    Demikian presentasi dari saya. Terima kasih yang sebesar-besarnya atas perhatian Bapak/Ibu dewan penguji. Sekarang saya persilakan untuk sesi tanya jawab."
+  </div>
+
+  <h2>BAGIAN 4: PREDIKSI PERTANYAAN PENGUJI & JAWABAN REKOMENDASI</h2>
+
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th style="width: 35%;">Pertanyaan Penguji (Q)</th>
+        <th>Jawaban Rekomendasi Anda (A)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Bagaimana rancangan dan relasi database sistem ini?</strong></td>
+        <td>"Sistem dirancang menggunakan 14 tabel relasional MySQL, antara lain tabel <em>users</em>, <em>donors</em>, <em>blood_requests</em>, <em>blood_stocks</em>, <em>health_facilities</em>, <em>donation_schedules</em>, <em>screenings</em>, dan <em>lab_results</em>. Semua tabel dihubungkan dengan Foreign Key dan dilengkapi Indexing pada kolom golongan darah dan status untuk memastikan kecepatan query saat volume data meningkat."</td>
+      </tr>
+      <tr>
+        <td><strong>Bagaimana keamanan data medis uji lab donor?</strong></td>
+        <td>"Seluruh data uji saring laboratorium (IMLTD) diproteksi menggunakan otentikasi ketat dan format interoperabilitas rekam medis digital mengacu pada pedoman SatuSehat Kemenkes RI, sehingga data sensitif hanya dapat diakses oleh pendonor dan pihak faskes berwenang."</td>
+      </tr>
+      <tr>
+        <td><strong>Apa nilai inovasi pembeda BloodCare dibanding aplikasi donor biasa?</strong></td>
+        <td>"Inovasi utama BloodCare terletak pada integrasi 'End-to-End': mulai dari penanganan cepat pasien darurat dengan tombol ikrar Bantu Sekarang, efisiensi Fast-Pass QR Code paperless, hingga gamifikasi reward penukar suplemen zat besi pasca-donor."</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
+------=_NextPart_BloodCare_01--
